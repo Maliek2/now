@@ -1,7 +1,7 @@
 ---
-title: "Say hello to Doks 👋"
-description: "Introducing Doks, a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
-excerpt: "Introducing Doks, a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+title: "Say hello to News Doks 👋"
+description: "Introducing Doks, a  Blog By Maliek  helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+excerpt: "Introducing News Doks, a Blog By Maliek  helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
 date: 2020-11-04T09:19:42+01:00
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
@@ -14,4 +14,4 @@ pinned: false
 homepage: false
 ---
 
-Introducing Doks, a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default.
+Introducing Ad Doks, a Maliek theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default.
